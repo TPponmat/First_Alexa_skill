@@ -1,4 +1,3 @@
-# First_Alexa_skill
 {
 "intents": [
 {

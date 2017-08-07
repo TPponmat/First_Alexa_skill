@@ -1,4 +1,3 @@
-# First_Alexa_skill
 PEAInfoIntent what is PEA
 PEAInfoIntent tell me about PEA
 HiVEInfoIntent what is hive
